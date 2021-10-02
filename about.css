@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-image: url("bg.jpg");
+}
+h1{
+    font-size: 40px;
+}
+body{
+    /*text-align: center;*/
+    background-color: #FFB028;
+    margin: 220px 250px;
+    padding: 30px 20px;
+    font-size: 18px;
+    opacity: 0.9;
+    box-sizing: border-box;
+    color: black;
+}
